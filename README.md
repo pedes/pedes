@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello there 👋, I'm Andrés! 🦦
+
 
 <!--
 **pedes/pedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤓 I'm Java Advocate (a.k.a. Evangelist)
+- 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
+- 🏆 I'm an avid improver. Continuously learning how to make the world better.
+- 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+- Originally from 🇨🇴, now based in 🇳🇱
+
