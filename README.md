@@ -1,6 +1,6 @@
 ## Hello there 👋, I'm Andrés! 🦦
 
-![octocat-logo](https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp "OctoCat Logo")
+![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang")
 
 <!--
 **pedes/pedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
