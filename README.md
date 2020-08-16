@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 - Originally from 🇨🇴, now based in 🇳🇱
 
+## Some of my Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedes&layout=compact)](https://github.com/pedes/github-readme-stats)
 
