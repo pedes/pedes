@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
+
 - 🤓 I'm Java Advocate (a.k.a. Evangelist)
 - 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
-<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
-- Originally from 🇨🇴, now based in 🇳🇱
+- Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
 
 ## Some of my Github Stats
 
