@@ -1,5 +1,6 @@
 ## Hello there 👋, I'm Andrés! 🦦
 
+**Get in touch:**
 [![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/pedes)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 - 🤓 I'm Java Advocate (a.k.a. Evangelist)
 - 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
 - Originally from 🇨🇴, now based in 🇳🇱
 
 ## Some of my Github Stats
