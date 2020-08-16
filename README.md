@@ -1,5 +1,7 @@
 ## Hello there 👋, I'm Andrés! 🦦
 
+[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/pedes)
+
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
 <!--
@@ -23,6 +25,8 @@ Here are some ideas to get you started:
 - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 - Originally from 🇨🇴, now based in 🇳🇱
 
-![Profile views](https://gpvc.arturio.dev/pedes)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedes&layout=compact)](https://github.com/pedes/github-readme-stats)
+
 
 <!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
