@@ -1,4 +1,4 @@
-## Hello there 👋, I'm Andrés! 🦦
+# Hello there 👋, I'm Andrés! 🦦
 
 **Get in touch:**
 [![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/pedes)
@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 - Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
 
 ## Some of my Github Stats
-
+<a href="https://github.com/pedes">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedes&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedes&layout=compact)](https://github.com/pedes/github-readme-stats)
 
 
